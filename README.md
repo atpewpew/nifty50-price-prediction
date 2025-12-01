@@ -45,8 +45,8 @@ tradio-gemini/
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/atpewpew/.git
-   cd tradio-gemini
+   git clone https://github.com/atpewpew/nifty50-price-prediction.git
+   cd nifty50-price-prediction
    ```
 
 2. **Create virtual environment (optional but recommended):**
@@ -115,8 +115,5 @@ The best model is automatically selected based on highest accuracy on the test s
 ## Author
 
 **Tradio ML Internship Assessment**  
-December 2024
-
----
-
-*Note: Replace `YOUR_USERNAME` in the clone URL with your actual GitHub username after pushing the repository.*
+December 2024  
+Repository: https://github.com/atpewpew/nifty50-price-prediction
