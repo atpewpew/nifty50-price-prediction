@@ -72,7 +72,7 @@ To capture market microstructure beyond simple price changes, the following feat
 1.  **Clone the repository:**
 
     ```bash
-    git clone [https://github.com/atpewpew/nifty50-price-prediction.git](https://github.com/atpewpew/nifty50-price-prediction.git)
+    git clone https://github.com/atpewpew/nifty50-price-prediction.git
     cd nifty50-price-prediction
     ```
 
