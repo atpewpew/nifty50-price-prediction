@@ -15,6 +15,8 @@ Random Forest outperformed Gradient Boosting on the test set. It uses an ensembl
 | Recall | 50.60% |
 | **Cumulative PnL (Assignment Logic)** | **₹12,132,377*** |
 
+![Cumulative PnL Chart](pnl_chart.png)
+
 *> **Note:** PnL is calculated based on strict assignment instructions (Cumulative Cash Flow: Buy = -Close, Sell = +Close). This represents a theoretical cash flow ledger, not a realized trading profit.*
 
 ---
